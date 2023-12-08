@@ -1,0 +1,13 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.fontSize": 11,
+  "files.autoSave": "onFocusChange",
+  "editor.wordWrap": "on",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "window.autoDetectColorScheme": false,
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Dark Default",
+  "workbench.preferredLightColorTheme": "GitHub Dark Default",
+  "monokaiPro.fileIconsMonochrome": false
+}
